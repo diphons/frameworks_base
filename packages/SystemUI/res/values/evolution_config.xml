@@ -61,7 +61,7 @@
     <!-- Asus stitch editor component name -->
     <string name="config_stitchEditor">com.asus.stitchimage/com.asus.stitchimage.editor.ScreenshotEditorActivity</string>
 
-   <!-- FPSInfoService Fps file path -->
+    <!-- FPSInfoService Fps file path -->
     <string name="config_fpsInfoSysNode" translatable="false"></string>
 
 </resources>
